@@ -16,8 +16,15 @@ A Singleplayer action shooter, which is heavily inspired from games like Half-Li
 ***
 
 We have created other programs/applications such as:
+and great news! They are all completely free!
+
 
 # NanoLauncher
 
 A middleware launcher to launch all of our games! And its completely free!
 https://www.github.com/NanoDogs-Studios/NanoLauncher/releases
+
+# ChronoEngine
+
+A Game Engine heavily inspired by Unity 3D! Heavy work in progress, but you can get it for free!
+https://www.github.com/NanoDogs-Studios/ChronoEngine/releases
