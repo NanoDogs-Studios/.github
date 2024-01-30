@@ -12,3 +12,12 @@ We are working on these games:
 
 # Faded Away
 A Singleplayer action shooter, which is heavily inspired from games like Half-Life 2
+
+***
+
+We have created other programs/applications such as:
+
+# NanoLauncher
+
+A middleware launcher to launch all of our games! And its completely free!
+https://www.github.com/NanoDogs-Studios/NanoLauncher/releases
